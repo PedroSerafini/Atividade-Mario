@@ -12,7 +12,7 @@ Este projeto demonstra como usar o algoritmo de Dijkstra para encontrar o menor 
 
 O grafo é representado da seguinte maneira:
 
-![Mapa Mario](A3/MapaMario.jpeg)
+![Mapa Mario](A3/MapaMario.jpg)
 
 - Nó de origem: A
 - Nó de destino: I
